@@ -1,7 +1,7 @@
 - 👋 Hi, I’m map
 - 👀 I’m interested in Python programming language 
 - 🌱 I’m currently attending CS50P
-- 💞️ I’m looking for a job as Python developer role 
+- 💞️ I’m looking for a job as Entry-Level Python developer role 
 
 
 <!---
